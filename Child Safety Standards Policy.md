@@ -1,6 +1,4 @@
-Here is a **sample Child Safety Standards Policy** against Child Sexual Abuse and Exploitation (CSAE) that you can publish on your app’s website (e.g., `true-match.io/safety` or a similar public page):
 
----
 
 ## **True Match – Child Safety and Protection Standards**
 
@@ -57,6 +55,4 @@ If you need to report a child safety concern, please contact us at:
 
 > 🔒 True Match is dedicated to protecting children and preventing the misuse of our platform. We regularly update our systems and policies in line with global child protection regulations.
 
----
 
-Would you like this formatted into HTML for your website, or I can provide a downloadable `.txt` or `.md` file for easier upload?
